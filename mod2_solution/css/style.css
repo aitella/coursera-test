@@ -21,6 +21,7 @@ h1 {
 
 div {
   background-color: #02A1FC;
+  position: relative;
 }
 
 .row {
@@ -57,7 +58,7 @@ div {
   float: right;
   padding: 5px;
   border: 1px solid black;
-  position: relative;
+  position: absolute;;
   top: 0px;
   right: 0px;
   text-align: center;
@@ -72,7 +73,7 @@ div {
   float: right;
   padding: 5px;
   border: 1px solid black;
-  position: relative;
+  position: absolute;
   top: 0px;
   right: 0px;
   text-align: center;
@@ -86,8 +87,8 @@ div {
   float: right;
   padding: 5px;
   border: 1px solid black;
-  position: relative;
-  top: 0px;
+  position: absolute;;
+  bottom: 0px;
   right: 0px;
   text-align: center;
 
