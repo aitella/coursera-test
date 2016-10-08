@@ -24,16 +24,20 @@ div {
 }
 
 .row {
-  width: 90%;
+  width: 100%;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-bottom: 7px;
+  padding-top: 7px;
 }
 
 .row > div {
   background-color: #02A1FC;
 	border: 1px solid black;
-  margin-left: 7px;
+  /*margin-left: 7px;
   margin-right: 7px;
   margin-top: 7px;
-  margin-bottom: 7px;
+  margin-bottom: 7px;*/
 
 }
 
