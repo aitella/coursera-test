@@ -14,9 +14,12 @@ h1 {
   margin-bottom: 30px;
 }
 
+div {
+  background-color: #02A1FC;
+}
+
 .row {
   width: 100%;
-  background-color: #02A1FC;
 }
 
 .row > div {
@@ -25,43 +28,53 @@ h1 {
 }
 
 .content1 {
+  padding: 10px;
 
 }
 
 .content2{
-
+  padding: 10px;
 }
 
 .content3 {
-
+  padding: 10px;
 }
 
 .title1 {
   background-color: green;
   color: solid black;
-  width: 70px;
-  height: 20px;
+  width: 15%;
   float: right;
-  font-size: 15px;
+  padding: 5px;
+  border: 1px solid black;
+  position: relative;
+  top: 5px;
+  right: 5px;
 
 }
 
 .title2 {
   background-color: blue;
   color: solid white;
-  width: 70px;
-  height: 20px;;
+  width: 15%;
   float: right;
-  font-size: 15px;
+  padding: 5px;
+  border: 1px solid black;
+  position: relative;
+  top: 5px;
+  right: 5px;
 }
 
 .title3 {
   background-color: gray;
   color: solid maroon;
-  width: 70px;
-  height: 20px;
+  width: 15%;
   float: right;
-  font-size: 15px;
+  padding: 5px;
+  border: 1px solid black;
+  position: relative;
+  top: 5px;
+  right: 5px;
 
 }
 
