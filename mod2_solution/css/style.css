@@ -28,12 +28,6 @@ div {
   width: 100%;
 }
 
-.row {
-  /*padding-left: 7px;
-  padding-right: 7px;
-  padding-bottom: 7px;
-  padding-top: 7px;*/
-}
 
 .row > div {
   background-color: #02A1FC;
@@ -46,14 +40,15 @@ div {
 }
 
 .content1 {
-
+  float: left
 }
 
 .content2{
-
+  float: left
 }
 
 .content3 {
+  float: left
 
 }
 
@@ -100,8 +95,7 @@ p {
   /**background-color: #02A1FC;*/
   width: 90%;
   margin-right: auto;
-  margin-left: 15px;
-  /*max-height: 15px;*/
+  margin-left: auto;
   color: #191C2C;
   font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 
