@@ -39,7 +39,6 @@ h1 {
   width: 15px;
   height: 10px;
   float: right;
-  padding: 5px;
 }
 
 .title2 {
@@ -48,7 +47,6 @@ h1 {
   width: 15px;
   height: 10px;
   float: right;
-  padding: 5px;
 }
 
 .title3 {
@@ -57,7 +55,7 @@ h1 {
   width: 15px;
   height: 10px;
   float: right;
-  padding: 5px;
+
 }
 
 p {
