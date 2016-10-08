@@ -29,19 +29,19 @@ div {
 }
 
 .row {
-  padding-left: 7px;
+  /*padding-left: 7px;
   padding-right: 7px;
   padding-bottom: 7px;
-  padding-top: 7px;
+  padding-top: 7px;*/
 }
 
 .row > div {
   background-color: #02A1FC;
 	border: 1px solid black;
-  /*margin-left: 7px;
+  margin-left: 7px;
   margin-right: 7px;
   margin-top: 7px;
-  margin-bottom: 7px;*/
+  margin-bottom: 7px;
 
 }
 
@@ -61,7 +61,6 @@ div {
   font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   background-color: green;
   color: solid black;
-  /*font-size: 12px;*/
   width: 15%;
   border: 1px solid black;
   position: absolute;
@@ -75,13 +74,11 @@ div {
   font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   background-color: blue;
   color: solid white;
-  /*font-size: 12px;*/
   width: 15%;
   border: 1px solid black;
   position: absolute;
-  margin: 0px 0px 1px 1px;
-  /*top: 0px;
-  right: 0px;*/
+  top: 0px;
+  right: 0px;
   text-align: center;
 }
 
@@ -89,7 +86,6 @@ div {
   font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   background-color: gray;
   color: solid maroon;
-  /*font-size: 12px;*/
   width: 15%;
   border: 1px solid black;
   position: absolute;
