@@ -16,6 +16,7 @@ h1 {
 
 .row {
   width: 100%;
+  background-color: #02A1FC;
 }
 
 .row > div {
@@ -24,39 +25,43 @@ h1 {
 }
 
 .content1 {
-background-color: #02A1FC;
+
 }
 
 .content2{
-background-color: #02A1FC;
+
 }
 
 .content3 {
-background-color: #02A1FC;
+
 }
 
 .title1 {
   background-color: green;
-  color: black;
-  width: 15px;
-  height: 10px;
+  color: solid black;
+  width: 50px;
+  height: 40px;
   float: right;
+  font-size: 15px;
+
 }
 
 .title2 {
   background-color: blue;
-  color: white;
-  width: 15px;
-  height: 10px;
+  color: solid white;
+  width: 50px;
+  height: 40px;
   float: right;
+  font-size: 15px;
 }
 
 .title3 {
   background-color: gray;
-  color: maroon;
-  width: 15px;
-  height: 10px;
+  color: solid maroon;
+  width: 50px;
+  height: 40px;
   float: right;
+  font-size: 15px;
 
 }
 
