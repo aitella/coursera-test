@@ -3,7 +3,7 @@
   box-sizing: border-box;
 }
 body {
-	background-color: #EBE0D9;
+	/**background-color: #EBE0D9;**/
   margin: 8px
 }
 
@@ -39,8 +39,8 @@ h1 {
 .title1 {
   background-color: green;
   color: solid black;
-  width: 50px;
-  height: 40px;
+  width: 70px;
+  height: 20px;
   float: right;
   font-size: 15px;
 
@@ -49,8 +49,8 @@ h1 {
 .title2 {
   background-color: blue;
   color: solid white;
-  width: 50px;
-  height: 40px;
+  width: 70px;
+  height: 20px;;
   float: right;
   font-size: 15px;
 }
@@ -58,8 +58,8 @@ h1 {
 .title3 {
   background-color: gray;
   color: solid maroon;
-  width: 50px;
-  height: 40px;
+  width: 70px;
+  height: 20px;
   float: right;
   font-size: 15px;
 
