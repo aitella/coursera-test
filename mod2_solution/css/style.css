@@ -51,7 +51,7 @@ section {
   float: right;
   font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   background-color: green;
-  color: solid black;
+  color: black;
   width: 15%;
   border: 1px solid black;
   position: absolute;
@@ -65,7 +65,7 @@ section {
   float: right;
   font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   background-color: blue;
-  color: solid white;
+  color: white;
   width: 15%;
   border: 1px solid black;
   position: absolute;
@@ -78,7 +78,7 @@ section {
   float: right;
   font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   background-color: gray;
-  color: solid maroon;
+  color: maroon;
   width: 15%;
   border: 1px solid black;
   position: absolute;
@@ -94,7 +94,7 @@ p {
   width: 90%;
   margin-right: auto;
   margin-left: 15px;
-  /*color: #191C2C;*/
+  color: red; /*#191C2C;*/
   font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 
 }
