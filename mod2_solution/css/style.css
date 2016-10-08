@@ -3,7 +3,9 @@
   box-sizing: border-box;
 }
 body {
-	/**background-color: #EBE0D9;**/
+	background-color: #EBE0D9;
+  margin: 0;
+  padding: 0;
 }
 
 h1 {
@@ -24,7 +26,7 @@ div {
 
 }
 
-.row1 {
+.row {
   width: 100%;
 }
 
@@ -39,18 +41,11 @@ div {
 
 }
 
-.content1 {
-
+section {
+  color: #191C2C;
+  clear: left;
 }
 
-.content2{
-
-}
-
-.content3 {
-
-
-}
 
 .title1 {
   font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
@@ -95,8 +90,8 @@ p {
   /**background-color: #02A1FC;*/
   width: 90%;
   margin-right: auto;
-  margin-left: auto;
-  color: #191C2C;
+  margin-left: 15px;
+  /*color: #191C2C;*/
   font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 
 }
