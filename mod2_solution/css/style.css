@@ -12,7 +12,7 @@ h1{
 }
 
 .box {
-    background-color: #DCDCDC;
+    background-color: #D7EEF5;
     border: 1px solid blue;
     margin:15px;
 
@@ -26,7 +26,7 @@ h1{
 
 }
 
- .meat {
+ .sw {
     border: 1px solid black;
     float:right;
     position: relative;
@@ -39,16 +39,16 @@ h1{
 
 /*the title of the sections*/
 
-#chickentext{
-    background-color: #5F9EA0 ;
+#yodatext{
+    background-color: #F4A5BE ;
 }
 
-#beeftext{
+#obiwantext{
     background-color: #E6E6FA;
 }
 
- #sushitext{
-    background-color: #FFE4E1  ;
+ #hansolotext{
+    background-color: #C8F4A5  ;
  }
 
 
