@@ -16,7 +16,7 @@ h1{
     border: 1px solid blue;
     height: 180px;
     margin:15px;
-    /**overflow: auto;**/
+    overflow: auto;
 
  }
 
