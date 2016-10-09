@@ -14,9 +14,9 @@ h1{
 .box {
     background-color: #DCDCDC;
     border: 1px solid blue;
-    height: 180px;
+    /*height: 180px;*/
     margin:15px;
-    overflow: auto;
+    /*overflow: auto;*/
 
  }
 
