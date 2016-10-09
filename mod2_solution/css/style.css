@@ -4,6 +4,10 @@
   margin: 0px;
 }
 
+body {
+  background-color: #9796CA
+}
+
 h1{
   text-align: center;
   margin: 35px;
@@ -12,7 +16,7 @@ h1{
 }
 
 .box {
-    background-color: #D7EEF5;
+    background-color: #CA96AF;
     border: 1px solid blue;
     margin:15px;
 
