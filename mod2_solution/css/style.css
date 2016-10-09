@@ -1,26 +1,18 @@
-/********** Base styles **********/
+/*********base styles*********/
 * {
   box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
   margin: 22px;
-  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-}
-body {
-	background-color: #EBE0D9;
-  margin: 0;
-  padding: 0;
 }
 
+/*********Header*********/
 h1 {
-	color: blue;
-	font-size: 36px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 500;
-	line-height: 26.4px;
   text-align: center;
-  margin-bottom: 30px;
+  padding: 10px;
+  /*font-size: 175%;*/
 }
 
+/*********Largest Container*********/
 .container {
   height: 150px;
   background-color: grey;
@@ -28,12 +20,54 @@ h1 {
   margin: 10px;
   overflow: hidden;
 }
+
+/*********Corner Title*********/
+/*going to change it to individual ids*/
+#chicken{
+  width: 100px;
+  height: 28px;
+  background-color: pink;
+  text-align: center;
+  margin: 0px;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  padding: 5px;
+  float: right;
+  font-weight:bold;
+  font-size: 125%;
+}
+
+#beef{
+  width: 100px;
+  height: 28px;
+  background-color: red;
+  color: white;
+  text-align: center;
+  margin: 0px;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  padding: 5px;
+  float: right;
+  font-weight:bold;
+  font-size: 125%;
+}
+
+#sushi{
+  width: 100px;
+  height: 28px;
+  background-color: yellow;
+  text-align: center;
+  margin: 0px;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  padding: 5px;
+  float: right;
+  font-weight:bold;
+  font-size: 125%;
+}
+/*********text*********/
 .text{
   text-align: left;
-  width: 70%;
-  margin-right: auto;
-  margin-left: 15px;
-  color: #191C2C;
   /*padding: 10px;*/
   /*padding-top: 2px;*/
 }
@@ -70,73 +104,3 @@ h1 {
     width: 100%;
   }
 }
-
-/**
-div {
-  position: relative;
-
-}
-
-
-.row {
-  width: 100%;
-}
-
-
-.row > div {
-  background-color: #02A1FC;
-	border: 1px solid black;
-
-}
-
-section {
-  color: #191C2C;
-}
-**/
-
-.title1 {
-  float: right;
-  background-color: green;
-  color: black;
-  width: 80px;/*15%;*/
-  border: 1px solid black;
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  text-align: center;
-
-}
-
-.title2 {
-  float: right;
-  background-color: blue;
-  color: white;
-  width: 80px;/*15%;*/
-  border: 1px solid black;
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  text-align: center;
-}
-
-.title3 {
-  float: right;
-  background-color: gray;
-  color: maroon;
-  width: 80px;/*15%;*/
-  border: 1px solid black;
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  text-align: center;
-
-}
-
-/**p {
-  width: 70%;
-  margin-right: auto;
-  margin-left: 15px;
-  color: #191C2C;
-  clear: left;
-
-}**/
