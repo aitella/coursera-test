@@ -7,13 +7,13 @@
 h1{
   text-align: center;
   margin: 35px;
-  font-family: Helvetica;
+  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   color: #696969;
 }
 
 .box {
     background-color: #DCDCDC;
-    border: 2px dotted black;
+    border: 1px solid blue;
     height: 180px;
     margin:15px;
     overflow: auto;
@@ -23,7 +23,7 @@ h1{
  .content{
     padding: 35px 15px 15px 15px ;
     background-color: #DCDCDC ;
-    font-family: Helvetica;
+    font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
     font-size: 7;
 
 }
@@ -35,7 +35,7 @@ h1{
     width: 100px;
     text-align: center;
     font-size: 10;
-    font-family: Helvetica;
+    font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
     padding: 2px;
  }
 
@@ -107,7 +107,6 @@ h1{
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
     float: left;
-
     margin-right: auto;
     margin-left: auto;
   }
