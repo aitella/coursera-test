@@ -8,15 +8,13 @@ h1{
   text-align: center;
   margin: 35px;
   font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-  color: #696969;
+  color: blue;
 }
 
 .box {
     background-color: #DCDCDC;
     border: 1px solid blue;
-    /*height: 180px;*/
     margin:15px;
-    /*overflow: auto;*/
 
  }
 
